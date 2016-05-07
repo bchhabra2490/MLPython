@@ -1,4 +1,4 @@
-__author__='mike bowles'
+__author__='Bharat Chhabra'
 
 import urllib2
 import sys
