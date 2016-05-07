@@ -1,4 +1,3 @@
-__author__='Bharat Chhabra'
 
 import pandas as pd
 from pandas import DataFrame

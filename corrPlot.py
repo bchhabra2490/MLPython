@@ -8,6 +8,8 @@ rocksVMines=pd.read_csv(target_url,header=None,prefix="V")
 
 dataRow2=rocksVMines.iloc[1,0:60]
 dataRow3=rocksVMines.iloc[2,0:60]
+print dataRow2
+print dataRow3
 
 plot.scatter(dataRow2,dataRow3)
 

@@ -1,5 +1,3 @@
-__author__='Bharat Chhabra'
-
 import urllib2
 import sys
 import numpy as np
